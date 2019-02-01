@@ -1,3 +1,5 @@
+// Code to check the Current OS / Platform
+
 #include <stdio.h>
 
 int main(void){
